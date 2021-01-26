@@ -7,9 +7,9 @@ class Header extends Component {
             <>
                 <div class="header-media">
                     <SocialMediaButtons 
-                        url={"http://bit.ly/joosthuizen"} 
+                        url={"http://bit.ly/music-theory-online"} 
                         quote={"Music theory tuition online, from Stellenbosch"} 
-                        hashtag={"#musictheoryonline"}/></div>
+                        hashtag={"#musictheorytuition"}/></div>
                 <div class="header-mid-section"></div>
                 <div class="header-title"></div>
             </>
