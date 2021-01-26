@@ -20,7 +20,7 @@ function MusicCredentials() {
                                 rel="noopener noreferrer">
                                 CV
                         </a></p>
-                        <p><a  href="http://bit.ly/jo-su-bmushons-eng" 
+                        <p><a  href="http://bit.ly/jo-su-bmushons-eng-2021" 
                                 target="_blank" 
                                 rel="noopener noreferrer">
                                 BMus Hons (cum laude)
@@ -30,7 +30,7 @@ function MusicCredentials() {
                                 rel="noopener noreferrer">
                                 Advanced Theory, University of North Carolina
                         </a></p>
-                        <p><a   href="http://bit.ly/jo-atcl-piano-1975" 
+                        <p><a   href="http://bit.ly/jo-atcl-eng-piano-1975" 
                                 target="_blank" 
                                 rel="noopener noreferrer">
                                 Associate of the Trinity College of London (Piano)
