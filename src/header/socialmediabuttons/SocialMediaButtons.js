@@ -1,5 +1,8 @@
 import React from 'react';
 
+/* npm install jsonp */
+/* npm install react-share */
+
 import {
     FacebookShareButton,
     FacebookIcon,

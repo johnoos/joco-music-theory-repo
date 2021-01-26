@@ -8,7 +8,7 @@ import Sidebar from '../sidebar';
 
 // website content
 import {  MusicHome,
-          MusicTheoryCertificationLevels,
+          MusicTheoryCertificationLevels,   
           MusicCredentials, 
           MusicTheoryFees,
           BankingDetails,
