@@ -8,29 +8,25 @@ import Sidebar from '../sidebar';
 
 // website content
 import {  MusicHome,
-          MusicTheoryCertificationLevels,   
-          MusicCredentials, 
-          MusicTheoryFees,
-          BankingDetails,
-          ContactInfo }
+          MusicTheoryCertificationLevels,
+          ContactInfo,
+          MusicTheoryFees, 
+          MusicCredentials }
         from '../content-pages'; 
 
 const ITEMS = [ 
   { index: 0, name: "overview", label: "Overview"},
   { index: 1, name: "music theory levels", label: "Music Theory Levels"},
-  { index: 2, name: "credentials", label: "Tutor Credentials" },
-  { index: 3, name: "contact-info", label: "Contact Us" },                    
-  { index: 4, name: "fees", label: "Fees" },
-  { index: 5, name: "banking-details", label: "Banking details" }
+  { index: 2, name: "contact-info", label: "Contact Us" },                    
+  { index: 3, name: "fees", label: "Fees" },
+  { index: 4, name: "credentials", label: "Tutor Credentials" }
 ];
 
 const CONTENTCOMPONENTS = [ <MusicHome/>,
                             <MusicTheoryCertificationLevels/>,
-                            <MusicCredentials/>,
                             <ContactInfo/>,  
                             <MusicTheoryFees/>,
-                            <BankingDetails/>
-                                         ]; 
+                            <MusicCredentials/>             ]; 
 
 class App extends Component {
   constructor (props) {
